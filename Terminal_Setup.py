@@ -1,1 +1,1 @@
-import sanjida
+import termux
